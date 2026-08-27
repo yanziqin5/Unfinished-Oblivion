@@ -1,0 +1,32 @@
+﻿# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# PyInstaller 构建产物
+build/
+dist/
+*.spec.bak
+
+# 用户数据（包含个人笔记，禁止提交）
+data/*.db
+data/*.db-journal
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 临时上传
+.uploads/
