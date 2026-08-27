@@ -81,7 +81,7 @@ pyinstaller 未完成遗忘.spec
 ├── utils/
 │   ├── ai_client.py         # 豆包 AI 客户端
 │   ├── constants.py         # 常量、文案、主题色
-│   ├── db.py                # SQLite 数据库封装
+│   ├── db.py                # json 文件封装
 │   └── helpers.py           # 工具函数
 └── widgets/
     ├── canvas.py            # 画布组件
