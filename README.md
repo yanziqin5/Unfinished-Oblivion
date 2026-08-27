@@ -24,7 +24,7 @@
 | 开发语言 | Python 3 |
 | UI 框架 | PyQt5 |
 | 图像处理 | Pillow |
-| 本地数据库 | SQLite |
+| 本地数据库 | json文件 |
 | AI 模型 | 豆包（火山方舟 ARK） |
 | 打包工具 | PyInstaller |
 
